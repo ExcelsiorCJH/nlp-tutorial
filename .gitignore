@@ -237,5 +237,11 @@ $RECYCLE.BIN/
 # data dir
 data/
 data/*
+*.txt
+*.pkl
+
+# pytorch-lightning
+lightning_logs/
+lightning_logs/*
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudiocode,jupyternotebooks,python
